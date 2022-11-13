@@ -4,6 +4,8 @@ layout: default
 
 # Geelong Tech Talk
 
+[![pages-build-deployment](https://github.com/KathyReid/geelongtechtalk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/KathyReid/geelongtechtalk/actions/workflows/pages/pages-build-deployment)
+
 Hi there! Thanks for dropping by! We're the Geelong Tech Talk group, and we're a primarily online meetup group aimed at bringing Geelong's tech community closer together. The pandemic has eroded community connections - many of us are primarily WFH, others have caring commitments - and getting to meetups is tough.
 
 So, we're bringing you a monthly Geelong Tech Talk - 3 x 5 minute presentations and 15 minutes to mingle - over lunchtime. Grab a sandwich, learn something bite-size, and make, or renew, connections.
