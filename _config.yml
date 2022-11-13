@@ -1,4 +1,5 @@
 # jekyll config
-title: Geelong Tech Talk 
+title: Geelong Tech Talk
 markdown: kramdown
 theme: jekyll-theme-slate
+mailchimp-list: //proton.us11.list-manage.com/subscribe?u=e0d1e5a3ef0f0daf9594b0d71&id=43a1f1497a
