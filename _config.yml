@@ -1,0 +1,3 @@
+# jekyll config
+markdown: kramdown
+theme: slate
